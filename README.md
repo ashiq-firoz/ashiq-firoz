@@ -4,7 +4,7 @@
 - 📫 How to reach me :
        Through my mail : ashiqfiroz08@gmail.com
        or
-       My Instagram account : e_d_i__t_h
+       My Instagram account : ashiq_edith
 
 <!---
 ashiq-firoz/ashiq-firoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
