@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashiq-firoz
 - 👀 I’m interested in Full stack Web dev, DEVOPS and deeplearning research.
-- 🌱 I’m currently working on Vison Models
+- 🌱 I’m currently working on Vision Models
 - 📫 How to reach me :
        Through my mail : ashiqfiroz08@gmail.com
        or
